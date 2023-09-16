@@ -80,11 +80,9 @@ The provided Dockerfile allows you to easily containerize and run the applicatio
 
 Upon successful deployment, the API will be accessible on `http://localhost:5001`.
 
-## License
-
-This project is open-sourced under the MIT license.
-
 ## Contributions
+Nishan Ali
+ROLL - M22AIE208
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
