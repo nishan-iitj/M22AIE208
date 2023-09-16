@@ -83,9 +83,3 @@ Upon successful deployment, the API will be accessible on `http://localhost:5001
 ## Contributions
 Nishan Ali
 ROLL - M22AIE208
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-Feel free to modify and adapt this README according to the additional specifics of your project!
